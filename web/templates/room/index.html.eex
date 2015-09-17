@@ -1,0 +1,17 @@
+<style>
+  #output {
+    height: 400px;
+    max-height: 400px;
+    display: table-cell;
+    vertical-align: bottom;
+  }
+</style>
+
+<div class="row">
+  <div class="col-lg-12">
+    <div id="application">
+      <div id="output-container"></div>
+      <div id="input"></div>
+    </div>
+  </div>
+</div>
